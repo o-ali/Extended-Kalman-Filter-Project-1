@@ -13,7 +13,6 @@ public:
   * Constructor.
   */
   Tools();
-
   /**
   * Destructor.
   */
