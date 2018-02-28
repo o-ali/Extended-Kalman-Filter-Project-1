@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
@@ -127,3 +128,7 @@ still be compilable with cmake and make.
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# Extended-Kalman-Filter-Project-1
+Term 2 Project 1 - Extended Kalman Filters
+>>>>>>> 701c8ae65bb6a40980fdbb990691efa09055cad2
